@@ -17,7 +17,7 @@ Před každou prací si přečti:
 | Strava (jen čtení) | skutečné tréninky → zpětný zápis, vyhodnocení zátěže |
 | Plaud | přepisy/poznámky z nahrávek → úkoly a follow-upy |
 
-Časové pásmo je vždy `Europe/Prague`. Časy zadávej bez UTC offsetu.
+Časové pásmo je vždy `Europe/Prague`. Časy zadávej bez UTC offsetu. **Všechny časy vždy na celých 5 minut** (17:40, 17:45, 17:50, 18:00 – nikdy 17:47), včetně zpětných zápisů (zaokrouhlit).
 
 ## Autonomie (závazné)
 **Smíš sám, bez ptaní:**

@@ -1,5 +1,11 @@
 # Pravidla kalendáře
 
+## Časy – vždy na celých 5 minut (závazné)
+- Začátek i konec každé události asistenta je na **násobku 5 minut** (17:40, 17:45, 17:50, 18:00). Nikdy 17:47 nebo 6:12.
+- Plán: rovnou zarovnej na 5 minut.
+- Zpětné zápisy (i ze Stravy): zaokrouhli začátek i konec na nejbližších 5 minut. Přesné časy ze Stravy dej do popisu.
+- Totéž platí pro časy naplánovaných úloh asistenta.
+
 ## Kategorie a barvy
 Každá událost, kterou asistent vytvoří nebo zapíše, má kategorii = barvu (`colorId` v Google Calendar API).
 
