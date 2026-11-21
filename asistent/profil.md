@@ -17,6 +17,8 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - Rozvrh importován do kalendáře („… (ing) – Přednáška“), zkoušky „Zkouška: …“
 - **Termín:** vstupní test z angličtiny (Ing.) splnit **do 31. 12. 2026** (v únoru hodnoceno F, 17 bodů) → hlídat, naplánovat přípravu a termín testu
 
+- **Zkoušky ne 29. 11. 2026** – přihlásit se; učení naplánováno (Po–Pá 1 h, So+Ne 2 h). Doplnit předměty a čas zkoušek → upravit nedělní blok.
+
 ## Angličtina
 - Lekce se Stevem **Po, Čt, Pá 8:00–9:00** (cíl C1). Steve posílá i vlastní pozvánku „Jakub“ (Google Meet) → v kalendáři může být duplicitně; ponechat Stevovu pozvánku, vlastní opakovanou událost navrhnout k úpravě.
 
@@ -27,6 +29,10 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - **Závod:** půlmaraton **Neapol, ne 21. 2. 2027, 9:00** (pokoj pro 3, ~500 €)
 - Tréninkový plán zatím **není** – tréninky jsou neorganizované. Postavit plán je priorita (viz `postupy/trenink.md`).
 - Zdraví: řeší se ortopedické vložky (žádanka k ortopedovi) – hlídat follow-up
+
+## Osobní projekty a finance
+- Poznámky z dovolené → věci, které chce rozjet (první projití Út 24. 11.)
+- Pravidelně kontrolovat finance (první blok Út 1. 12. 19:00–20:00) – zeptat se, jestli to chce měsíčně opakovat
 
 ## Rytmus s asistentem
 - Ranní brief: **Po–Pá 5:45**, e-mailem na Gmail
