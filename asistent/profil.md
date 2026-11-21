@@ -17,7 +17,7 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - Rozvrh importován do kalendáře („… (ing) – Přednáška“), zkoušky „Zkouška: …“
 - **Termín:** vstupní test z angličtiny (Ing.) splnit **do 31. 12. 2026** (v únoru hodnoceno F, 17 bodů) → hlídat, naplánovat přípravu a termín testu
 
-- **Zkoušky ne 29. 11. 2026** – přihlásit se; učení naplánováno (Po–Pá 1 h, So+Ne 2 h). Doplnit předměty a čas zkoušek → upravit nedělní blok.
+- **Zkoušky So 28. 11. 2026 v 10:00 (VŠEM)**: Angličtina + Manažerská ekonomie (opravný termín). Učení naplánováno Po–Čt 1 h (střídavě ME / AJ), Pá 2 h, So ráno 2 h opakování.
 
 ## Angličtina
 - Lekce se Stevem **Po, Čt, Pá 8:00–9:00** (cíl C1). Steve posílá i vlastní pozvánku „Jakub“ (Google Meet) → v kalendáři může být duplicitně; ponechat Stevovu pozvánku, vlastní opakovanou událost navrhnout k úpravě.
