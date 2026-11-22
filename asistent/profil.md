@@ -17,7 +17,8 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - Rozvrh importován do kalendáře („… (ing) – Přednáška“), zkoušky „Zkouška: …“
 - **Termín:** vstupní test z angličtiny (Ing.) splnit **do 31. 12. 2026** (v únoru hodnoceno F, 17 bodů) → hlídat, naplánovat přípravu a termín testu
 
-- **Zkoušky So 28. 11. 2026 v 10:00 (VŠEM)**: Angličtina + Manažerská ekonomie (opravný termín). Učení naplánováno Po–Čt 1 h (střídavě ME / AJ), Pá 2 h, So ráno 2 h opakování.
+- **Zkoušky So 28. 11. 2026, V_404** – podle SIS 13:00 Manažerská ekonomika (opravný termín, 1. pokus 50 b = 4), 14:00 Anglický jazyk (Jakub uváděl 10:00 – ověřit).
+- Strategický management (ing): 56 b = 3 ✅ Učení naplánováno Po–Čt 1 h (střídavě ME / AJ), Pá 2 h, So ráno 2 h opakování.
 
 ## Angličtina
 - Lekce se Stevem **Po, Čt, Pá 8:00–9:00** (cíl C1). Steve posílá i vlastní pozvánku „Jakub“ (Google Meet) → v kalendáři může být duplicitně; ponechat Stevovu pozvánku, vlastní opakovanou událost navrhnout k úpravě.
@@ -26,6 +27,7 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - Triatlon (plavání, kolo – ROUVY indoor + objednaný Speedmax, běh), posilovna
 - Strava focus: „Build“
 - Plavání s coachem (např. Út 7:00), ranní slot 6:00–7:30 bývá na plavání/gym
+- HM Milano 22. 11. 2026: 21,32 km, moving 2:00:05 (~5:38/km)
 - **Závod:** půlmaraton **Neapol, ne 21. 2. 2027, 9:00** (pokoj pro 3, ~500 €)
 - Tréninkový plán zatím **není** – tréninky jsou neorganizované. Postavit plán je priorita (viz `postupy/trenink.md`).
 - Zdraví: řeší se ortopedické vložky (žádanka k ortopedovi) – hlídat follow-up
