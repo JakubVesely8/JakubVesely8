@@ -17,7 +17,7 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - Rozvrh importován do kalendáře („… (ing) – Přednáška“), zkoušky „Zkouška: …“
 - **Termín:** vstupní test z angličtiny (Ing.) splnit **do 31. 12. 2026** (v únoru hodnoceno F, 17 bodů) → hlídat, naplánovat přípravu a termín testu
 
-- **Zkoušky So 28. 11. 2026, V_404** – podle SIS 13:00 Manažerská ekonomika (opravný termín, 1. pokus 50 b = 4), 14:00 Anglický jazyk (Jakub uváděl 10:00 – ověřit).
+- **Zkoušky So 28. 11. 2026, V_404** – podle SIS 13:00 Manažerská ekonomika (opravný termín, 1. pokus 50 b = 4), 14:00 Anglický jazyk – potvrzeno v SIS.
 - Strategický management (ing): 56 b = 3 ✅ Učení naplánováno Po–Čt 1 h (střídavě ME / AJ), Pá 2 h, So ráno 2 h opakování.
 
 ## Angličtina
