@@ -30,7 +30,8 @@ _Živý dokument. Asistent ho doplňuje, kdykoli se dozví něco stálého. Posl
 - HM Milano 22. 11. 2026: 21,32 km, moving 2:00:05 (~5:38/km)
 - **Závod:** půlmaraton **Neapol, ne 21. 2. 2027, 9:00** (pokoj pro 3, ~500 €)
 - Tréninkový plán zatím **není** – tréninky jsou neorganizované. Postavit plán je priorita (viz `postupy/trenink.md`).
-- Zdraví: řeší se ortopedické vložky (žádanka k ortopedovi) – hlídat follow-up
+- Zdraví: ploché nohy / vložky – lékař Ave Clinic (MUDr. Přidal) **Út 5. 1. 2027 17:30**, potvrzeno
+- Vstupní testy pro plán (přání z Plaudu 23. 11.): FTP 20′ kolo St 2. 12., běh 30′ prah Ne 6. 12.
 
 ## Osobní projekty a finance
 - Poznámky z dovolené → věci, které chce rozjet (první projití Út 24. 11.)
